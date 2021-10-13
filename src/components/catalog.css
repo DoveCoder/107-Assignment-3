@@ -1,0 +1,4 @@
+.catalog .item{
+    display: inline-block;
+    margin: .5rem;
+}
